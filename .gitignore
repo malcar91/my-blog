@@ -1,0 +1,2 @@
+// prevents git from adding our node modules to the git repository
+node_modules
